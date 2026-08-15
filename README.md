@@ -69,7 +69,7 @@ Topic input (Telegram / Form / Webhook)
 ### Steps
 1. Clone this repo
    ```bash
-   git clone https://github.com/<your-username>/linkedin-ai-content-engine.git
+   git clone https://github.com/vaibhavkatex/linkedin-ai-content-engine.git
    ```
 2. Import `workflow.json` into your n8n instance (**Workflows → Import from File**)
 3. Add credentials in n8n:

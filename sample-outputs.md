@@ -1,8 +1,8 @@
-#User :- What is a Rag ?
+# User :- What is a Rag ?
 
-#Agent :- Got it! Researching "What is a Rag ?" and drafting your LinkedIn post now. I will send you the final post once it is live.
+# Agent :- Got it! Researching "What is a Rag ?" and drafting your LinkedIn post now. I will send you the final post once it is live.
 
-#Agent Response and Posted On Linkdin
+# Agent Response and Posted On Linkdin
 Your LinkedIn post on "What is a Rag ?" is now live!
 
 ---

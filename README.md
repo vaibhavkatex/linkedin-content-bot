@@ -87,13 +87,9 @@ Topic input (Telegram / Form / Webhook)
 
 ```
 linkedin-ai-content-engine/
-├── workflow.json                     # n8n workflow export
-├── prompts/
-│   └── ghostwriter-system-prompt.md  # the ghostwriting system prompt
-├── examples/
-│   └── sample-outputs.md             # example generated posts
-├── docs/
-│   └── deployment.md                 # free/low-cost n8n hosting notes
+├── Linkedin.json                     # n8n workflow export
+|── ghostwriter-system-prompt.md      # the ghostwriting system prompt
+├── sample-outputs.md                 # example generated posts          
 └── README.md
 ```
 
